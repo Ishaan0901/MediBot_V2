@@ -1,0 +1,11 @@
+langchain
+langchain-community      # PyPDFLoader
+langchain-text-splitters # chunking
+langchain-huggingface    # BGE embeddings
+sentence-transformers    # local embedding model run
+faiss-cpu                # vector store
+langchain-groq           # Groq LLM
+pypdf                    # PDF reading
+streamlit                # UI
+python-dotenv            # .env keys
+pytest                   # tests
