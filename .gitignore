@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# data (copyright) and index
+data/
+faiss_index/
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor / os
+.vscode/
+.DS_Store
