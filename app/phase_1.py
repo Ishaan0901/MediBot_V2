@@ -1,1 +1,2 @@
 from models import model
+from langchain_text_splitters import RecursiveCharacterTextSplitter
