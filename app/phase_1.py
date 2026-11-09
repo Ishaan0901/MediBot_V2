@@ -11,3 +11,5 @@ book3=PyPDFLoader('data/guideline-339-en.pdf').load()
 book4=PyPDFLoader('data/hesperian_where_there_is_no_doctor.pdf').load()
 
 loader=book1+book2+book3+book4
+
+
