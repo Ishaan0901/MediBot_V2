@@ -4,6 +4,8 @@
 # data (copyright) and index
 data/
 faiss_index/
+Knowledge_Base/
+evals/
 
 # python
 venv/
