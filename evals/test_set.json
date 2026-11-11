@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "answerable",
+    "question": "At what blood pressure level does WHO say drug treatment should start for a person with confirmed hypertension?",
+    "answer": "Systolic 140 mmHg or higher, or diastolic 90 mmHg or higher.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 9,
+    "loader_page": 8,
+    "verified_by_hand": false
+  },
+  {
+    "id": 2,
+    "type": "answerable",
+    "question": "Which drug classes can be used as the first medicine for adults with hypertension, according to WHO?",
+    "answer": "Thiazide/thiazide-like diuretics, ACE inhibitors or ARBs, and long-acting dihydropyridine calcium channel blockers.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 10,
+    "loader_page": 9,
+    "verified_by_hand": false
+  },
+  {
+    "id": 3,
+    "type": "answerable",
+    "question": "Does WHO prefer starting with one drug or a combination, and in what form?",
+    "answer": "It suggests combination therapy, preferably as a single-pill combination, to improve adherence.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 10,
+    "loader_page": 9,
+    "verified_by_hand": false
+  },
+  {
+    "id": 4,
+    "type": "answerable",
+    "question": "What systolic target does WHO set for hypertension patients who already have cardiovascular disease?",
+    "answer": "Below 130 mmHg.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 11,
+    "loader_page": 10,
+    "verified_by_hand": false
+  },
+  {
+    "id": 5,
+    "type": "answerable",
+    "question": "How often should a hypertension patient be reviewed after starting or changing medicine, and how often once controlled?",
+    "answer": "Monthly until target is reached; every 3-6 months once blood pressure is controlled.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 11,
+    "loader_page": 10,
+    "verified_by_hand": false
+  },
+  {
+    "id": 6,
+    "type": "answerable",
+    "question": "Under what conditions can nurses or pharmacists start blood pressure treatment, per WHO?",
+    "answer": "Proper training, prescribing authority, specific management protocols and physician oversight.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 11,
+    "loader_page": 10,
+    "verified_by_hand": false
+  },
+  {
+    "id": 7,
+    "type": "answerable",
+    "question": "What daily salt limit does the WHO hypertension guideline mention for lifestyle change?",
+    "answer": "Less than 5 g of salt per day.",
+    "source_file": "book-2.pdf",
+    "pdf_page": 14,
+    "loader_page": 13,
+    "verified_by_hand": false
+  },
+  {
+    "id": 8,
+    "type": "answerable",
+    "question": "How is acute diarrhoea defined in the MSF clinical guidelines?",
+    "answer": "At least 3 liquid stools per day for less than 2 weeks.",
+    "source_file": "guideline-170-en.pdf",
+    "pdf_page": 114,
+    "loader_page": 113,
+    "verified_by_hand": false
+  },
+  {
+    "id": 9,
+    "type": "answerable",
+    "question": "When should cholera be suspected in a diarrhoea patient, per MSF?",
+    "answer": "In a patient over 5 years with severe and rapid-onset dehydration.",
+    "source_file": "guideline-170-en.pdf",
+    "pdf_page": 114,
+    "loader_page": 113,
+    "verified_by_hand": false
+  },
+  {
+    "id": 10,
+    "type": "answerable",
+    "question": "What share of snake bites are dry bites with no venom injected?",
+    "answer": "More than 50%.",
+    "source_file": "guideline-170-en.pdf",
+    "pdf_page": 355,
+    "loader_page": 354,
+    "verified_by_hand": false
+  },
+  {
+    "id": 11,
+    "type": "answerable",
+    "question": "How is the dry-tube whole blood clotting test done after a snake bite?",
+    "answer": "Take 2-5 ml of blood in a dry tube, wait 30 minutes, then check if it has clotted completely.",
+    "source_file": "guideline-170-en.pdf",
+    "pdf_page": 355,
+    "loader_page": 354,
+    "verified_by_hand": false
+  },
+  {
+    "id": 12,
+    "type": "answerable",
+    "question": "Do tourniquets and cutting or sucking the wound help after a snake bite?",
+    "answer": "No. Tourniquets, incision-suction and cauterisation are ineffective.",
+    "source_file": "guideline-170-en.pdf",
+    "pdf_page": 356,
+    "loader_page": 355,
+    "verified_by_hand": false
+  },
+  {
+    "id": 13,
+    "type": "answerable",
+    "question": "Is tetanus contagious from person to person?",
+    "answer": "No. It is non-contagious; it comes from Clostridium tetani entering through a wound.",
+    "source_file": "guideline-170-en.pdf",
+    "pdf_page": 224,
+    "loader_page": 223,
+    "verified_by_hand": false
+  },
+  {
+    "id": 14,
+    "type": "answerable",
+    "question": "How much clean water is one ORS sachet mixed into?",
+    "answer": "1 litre.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 242,
+    "loader_page": 241,
+    "verified_by_hand": false
+  },
+  {
+    "id": 15,
+    "type": "answerable",
+    "question": "How far apart should ciprofloxacin and antacids be taken?",
+    "answer": "Ciprofloxacin 2 hours before or 4 hours after antacids.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 90,
+    "loader_page": 89,
+    "verified_by_hand": false
+  },
+  {
+    "id": 16,
+    "type": "answerable",
+    "question": "What should be done if a child vomits soon after swallowing a zinc tablet?",
+    "answer": "If vomiting happens within 30 minutes, give the dose again.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 339,
+    "loader_page": 338,
+    "verified_by_hand": false
+  },
+  {
+    "id": 17,
+    "type": "answerable",
+    "question": "How many ml is one teaspoon of medicine, and one tablespoon?",
+    "answer": "1 teaspoon = 5 ml; 1 tablespoon = 15 ml.",
+    "source_file": "hesperian_where_there_is_no_doctor.pdf",
+    "pdf_page": 109,
+    "loader_page": 108,
+    "verified_by_hand": false
+  },
+  {
+    "id": 18,
+    "type": "answerable",
+    "question": "How much sunlight a day helps prevent rickets in children?",
+    "answer": "Direct sunlight on the skin for at least 10 minutes a day, without burning.",
+    "source_file": "hesperian_where_there_is_no_doctor.pdf",
+    "pdf_page": 173,
+    "loader_page": 172,
+    "verified_by_hand": false
+  },
+  {
+    "id": 19,
+    "type": "answerable",
+    "question": "Does high blood pressure show signs early on?",
+    "answer": "No. At first it causes no signs, so it should be lowered before danger signs appear.",
+    "source_file": "hesperian_where_there_is_no_doctor.pdf",
+    "pdf_page": 173,
+    "loader_page": 172,
+    "verified_by_hand": false
+  },
+  {
+    "id": 20,
+    "type": "answerable",
+    "question": "What should be done with an animal that bit someone and may have rabies?",
+    "answer": "Tie or cage it for a week; if it dies in that time, take the person for anti-rabies injections.",
+    "source_file": "hesperian_where_there_is_no_doctor.pdf",
+    "pdf_page": 229,
+    "loader_page": 228,
+    "verified_by_hand": false
+  },
+  {
+    "id": 21,
+    "type": "trap",
+    "question": "What is the zinc sulfate dose for a child under 6 months with diarrhoea, and for how long?",
+    "answer": "10 mg (half tablet) once daily for 10 days.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 339,
+    "loader_page": 338,
+    "verified_by_hand": false
+  },
+  {
+    "id": 22,
+    "type": "trap",
+    "question": "What is the usual oral amoxicillin dose for a child?",
+    "answer": "25 mg/kg (max 1 g) 2 times daily.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 37,
+    "loader_page": 36,
+    "verified_by_hand": false
+  },
+  {
+    "id": 23,
+    "type": "trap",
+    "question": "What is the adult starting dose of amlodipine for hypertension, and the maximum?",
+    "answer": "5 mg once daily; max 10 mg daily.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 35,
+    "loader_page": 34,
+    "verified_by_hand": false
+  },
+  {
+    "id": 24,
+    "type": "trap",
+    "question": "What is the maximum daily dose of metformin for an adult?",
+    "answer": "2 g daily (1 g morning and evening).",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 209,
+    "loader_page": 208,
+    "verified_by_hand": false
+  },
+  {
+    "id": 25,
+    "type": "trap",
+    "question": "How much ORS should a child aged 2 to 10 years drink after each loose stool to prevent dehydration?",
+    "answer": "100 to 200 ml after each loose stool.",
+    "source_file": "guideline-339-en.pdf",
+    "pdf_page": 242,
+    "loader_page": 241,
+    "verified_by_hand": false
+  },
+  {
+    "id": 26,
+    "type": "not_in_docs",
+    "question": "What is the weight-loss dose of semaglutide?",
+    "answer": "not found in sources",
+    "source_file": null,
+    "pdf_page": null,
+    "loader_page": null,
+    "verified_by_hand": false
+  },
+  {
+    "id": 27,
+    "type": "not_in_docs",
+    "question": "How is CAR-T cell therapy given for leukaemia?",
+    "answer": "not found in sources",
+    "source_file": null,
+    "pdf_page": null,
+    "loader_page": null,
+    "verified_by_hand": false
+  },
+  {
+    "id": 28,
+    "type": "not_in_docs",
+    "question": "How long is recovery after LASIK eye surgery?",
+    "answer": "not found in sources",
+    "source_file": null,
+    "pdf_page": null,
+    "loader_page": null,
+    "verified_by_hand": false
+  },
+  {
+    "id": 29,
+    "type": "not_in_docs",
+    "question": "How many units of botulinum toxin are used for wrinkles?",
+    "answer": "not found in sources",
+    "source_file": null,
+    "pdf_page": null,
+    "loader_page": null,
+    "verified_by_hand": false
+  },
+  {
+    "id": 30,
+    "type": "not_in_docs",
+    "question": "What is the vaccination schedule for the dengue vaccine?",
+    "answer": "not found in sources",
+    "source_file": null,
+    "pdf_page": null,
+    "loader_page": null,
+    "verified_by_hand": false
+  }
+]
