@@ -4,6 +4,7 @@ langchain-text-splitters # chunking
 langchain-huggingface    # BGE embeddings
 sentence-transformers    # local embedding model run
 chromadb                 # vector store
+langchain-chroma
 langchain-groq           # Groq LLM
 pypdf                    # PDF reading
 streamlit                # UI

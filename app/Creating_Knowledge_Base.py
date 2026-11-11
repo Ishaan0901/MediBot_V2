@@ -1,7 +1,7 @@
 from models import model
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 
 
 #   DOCUMENT LOADER:
@@ -14,11 +14,11 @@ print('\n\n1. Loading Books...')
 books= book1+book2+book3+book4
 
 #   To check the length of all the books :
-# print(len(book1),'\n')
-# print(len(book2),'\n')
-# print(len(book3),'\n')
-# print(len(book4),'\n')
-# print(len(books),'\n')
+print(len(book1),'\n')
+print(len(book2),'\n')
+print(len(book3),'\n')
+print(len(book4),'\n')
+print(len(books),'\n')
 
 
 #   Text Splitter:
@@ -28,7 +28,8 @@ splitter=RecursiveCharacterTextSplitter(
 )
 print('\n2. Chunking...')
 chunks=splitter.split_documents(books)
-print('\n3. Created Chunks...now creating Knowledge Base !!')
+print(f'\n3. {len(chunks)} Chunks Created ...now creating Knowledge Base !!')
+print(chunks[0].metadata)
 
 
 #   VectorStore:
@@ -37,4 +38,3 @@ store=Chroma.from_documents(
     embedding=model,
     persist_directory='Knowledge_Base'
 )
-
