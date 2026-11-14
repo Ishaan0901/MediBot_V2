@@ -16,3 +16,4 @@ __pycache__/
 # editor / os
 .vscode/
 .DS_Store
+que.txt
