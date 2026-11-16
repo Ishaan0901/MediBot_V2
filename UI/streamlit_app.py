@@ -36,12 +36,12 @@ if que:
     st.markdown(answer)
 
 
-    # if answer.lower().strip('. \n') not in not_found_variants:
+    if answer.lower().strip('. \n') not in not_found_variants:
     
-    #     st.subheader('Content Retrieved from :')
-    #     sources_list=response.get('sources')
-    #     for s in sources_list:
-    #         source=s.get('source')
-    #         page=s.get('page_number')
+        st.subheader('Content Retrieved from :')
+        sources_list=response.get('sources')
+        for s in sources_list:
+            source=s.get('source')
+            page=s.get('page_number')
 
-    #         st.markdown(f'Source:{source}... Page Number: {page}')
+            # st.markdown(f'Source:{source}... Page Number: {page}')
