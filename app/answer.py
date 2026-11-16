@@ -40,7 +40,6 @@ Rules:
 - Otherwise, answer in short, simple English.
 - Never guess and never use outside knowledge.
 - Copy numbers, doses and units exactly from the context.
-- After the answer, add the sources you used as: (file name, page). Use the real file name and page_number from the context.
 
 Context:
 {formatted_context}
