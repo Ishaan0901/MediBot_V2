@@ -34,3 +34,6 @@ for d in data:
             print(f"NOT FOUND for (id:{d.get('id')})")
             missed_ids.append(d.get('id'))
 
+print(f'======TOTAL MATCHES:{match_count}=======')
+print(f'======PERCENTAGE:{(match_count/total_ques)*100}=======')
+print(f"======Missed ID's :{missed_ids}=======")
