@@ -4,7 +4,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 llm=ChatGroq(
-    model='openai/gpt-oss-20b'
+    model='openai/gpt-oss-20b',
+    temperature=0
 )
 
 model = HuggingFaceEmbeddings(
