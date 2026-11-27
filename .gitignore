@@ -6,6 +6,7 @@ data/
 faiss_index/
 Knowledge_Base/
 evals/answers.json
+evals/judgement.json
 
 # python
 venv/
